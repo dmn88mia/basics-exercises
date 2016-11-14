@@ -12,7 +12,6 @@ arr_by2 = []
 
 arr.each do |n|
   arr_by2 << n += 2
-  
 end
 
 p arr
