@@ -1,0 +1,2 @@
+# a bit confused on this question. I looked at the web pages that were in the video for this question and like both pages becuase it is simple and clean. Now for api I think it means what I used so far with methods and documentation, so far I have liked the methods that run math equations for your like sqrt or the pie method.
+# for rails I looked at the rails site from the video and also like thie site for its simplicity. 
